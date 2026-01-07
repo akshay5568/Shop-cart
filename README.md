@@ -30,4 +30,11 @@ This is a full-stack **Flipkart eCommerce clone** built using the **MERN stack**
 ---
 
 
+⚠️ Disclaimer
+This project is built for educational purposes only.
+This project is not affiliated with Flipkart.
+All trademarks and brand names belong to their respective owners.
+
+
+
 
